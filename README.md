@@ -5,4 +5,4 @@
 * Análise ofensiva
 * Análise defensiva
 * Análise de goleiros
-* Análise e detaquue das principais promessas
+* Análise e destaque das principais promessas
