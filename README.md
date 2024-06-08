@@ -2,6 +2,7 @@
 ### Sendo dividida em:
 * Análise etária
 * Análise de nacionalidades
+* Análise dos atletas brasileiros
 * Análise ofensiva
 * Análise defensiva
 * Análise de goleiros
