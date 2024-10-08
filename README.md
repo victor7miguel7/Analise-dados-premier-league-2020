@@ -11,7 +11,4 @@
 
 ![distrib por idade](https://github.com/user-attachments/assets/13ae4a12-8a2b-40ef-8904-e7ade1edc7e0)
 
-![distrib br](https://github.com/user-attachments/assets/59aa87c1-5e6f-4075-bdef-2190459cfa28)
-
-
 #python #premierleague #analise_esportiva
